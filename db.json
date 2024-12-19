@@ -1,0 +1,88 @@
+{
+  "tasks": [
+    {
+      "id": "3",
+      "title": "Hacer ejercicio",
+      "description": "Realizar una rutina de 30 minutos de cardio.",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "5",
+      "title": "Estudiar React",
+      "description": "Completar el módulo de hooks en el curso de React.",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "7",
+      "title": "Llamar al cliente",
+      "description": "Realizar la llamada para discutir detalles del proyecto",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "8",
+      "title": "Revisar correo",
+      "description": "Responder correos pendientes y organizar la bandeja de entrada",
+      "date": "12/14/2024",
+      "state": "INPROGRESS"
+    },
+    {
+      "id": "9",
+      "title": "Planificar viaje",
+      "description": "Preparar el itinerario y reservar alojamiento para las vacaciones",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "10",
+      "title": "Presentación del proyecto",
+      "description": "Finalizar y presentar el informe del proyecto al equipo",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "9b7e",
+      "title": "Entrevista laboral",
+      "description": "prueba tecnica en vivo",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "d713",
+      "title": "Reunión stand up",
+      "description": "Reunion semanal con el equipo de trabajo",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "68c3",
+      "title": "Estudiar Hooks de React",
+      "description": "Prepararme fortaleciendo mis habilidades en React ",
+      "date": "12/14/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "adb5",
+      "title": "Trabajo en to do list",
+      "description": "Terminando app to do list ",
+      "date": "12/14/2024",
+      "state": "DONE"
+    },
+    {
+      "id": "d48d",
+      "title": "Ajuste fecha",
+      "description": "Cambios realizados para ajuste de fecha",
+      "date": "12/19/2024",
+      "state": "TODO"
+    },
+    {
+      "id": "666a",
+      "title": "Planificar viaje",
+      "description": "Preparar el itinerario y reservar alojamiento para las vacaciones",
+      "date": "12/19/2024",
+      "state": "TODO"
+    }
+  ]
+}
